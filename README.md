@@ -23,13 +23,13 @@ I am driven by the challenge of designing elegant, performant rendering systems.
 My work emphasises practical application across both rendering and perception:
 
 * **[3D-Visualiser-WebGPU](https://github.com/ibby101/3D-Visualiser-WebGPU)**
-    * *Description:* My Master's thesis, dedicated to developing an **interactive 3D visualiser** powered entirely by the modern **WebGPU** API, demonstrating proficiency in web-based rendering pipelines.
+    My Master's thesis, dedicated to developing an **interactive 3D visualiser** powered entirely by the modern **WebGPU** API, demonstrating proficiency in web-based rendering pipelines.
 * **[Vulkan-Learning](https://github.com/ibby101/Vulkan-Learning)**
-    * *Description:* An ongoing, self-directed project focused on mastering the **Vulkan** graphics API, building foundational knowledge in memory management, command buffers, and descriptor sets.
+    An ongoing, self-directed project focused on mastering the **Vulkan** graphics API, building foundational knowledge in memory management, command buffers, and descriptor sets.
 * **[WAAM-ViD](https://github.com/IFRA-Cranfield/WAAM-ViD)** (As seen on my profile)
-    * *Description:* An **AI-powered vision system** for real-time dimensional analysis, leveraging advanced image processing and machine learning—a practical application of my M.Sc. expertise in a demanding industrial context.
+    An **AI-powered vision system** for real-time dimensional analysis, leveraging advanced image processing and machine learning—a practical application of my M.Sc. expertise in a demanding industrial context.
 * **[Zenith-Shift/shadows\_alchemy\_gamejam](https://github.com/Zenith-Shift/shadows_alchemy_gamejam)**
-    * *Description:* Collaboration on a gamejam project, showcasing teamwork and rapid development skills within a real-time environment (using GDScript).
+    Collaboration on a gamejam project, showcasing teamwork and rapid development skills within a real-time environment (using GDScript).
 
 ---
 **📫 Interested in connecting?** Feel free to reach out to discuss graphics, Vulkan, WebGPU, or deep computational challenges!
