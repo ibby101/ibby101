@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Ibrahim
 
-<!--
-**ibby101/ibby101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated **Graphics Programmer** and a recent Master’s graduate **specialising** in **Computational & Software Techniques in Engineering**.
 
-Here are some ideas to get you started:
+While my M.Sc. focused on the advanced algorithms of Machine Perception (Computer Vision), my core technical passion and professional focus is on **low-level rendering, high-performance GPU computing, and graphics API mastery.** I architect systems that bridge the gap between complex visual data and fast, optimised, real-time rendering performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Core Focus & Expertise:
+
+I am driven by the challenge of designing elegant, performant rendering systems. I am actively exploring roles centred on Graphics Programming and Real-Time Rendering.
+
+| Focus Area | Key Interests & Tools |
+| :--- | :--- |
+| **Modern Graphics APIs** | Mastering **Vulkan** for high-performance, explicit rendering control, and utilising **WebGPU** for cutting-edge web visualisation. |
+| **GPU Computing** | Deep diving into parallelism, developing high-throughput compute shaders, and optimising pipeline architectures for modern GPU hardware. |
+| **Visual Computing Systems** | Applying a strong background in computational mathematics and high-speed image processing to solve complex rendering and system optimisation challenges. |
+
+---
+
+### Featured Projects:
+
+My work emphasises practical application across both rendering and perception:
+
+* **[3D-Visualiser-WebGPU](https://github.com/ibby101/3D-Visualiser-WebGPU)**
+    * *Description:* My Master's thesis, dedicated to developing an **interactive 3D visualiser** powered entirely by the modern **WebGPU** API, demonstrating proficiency in web-based rendering pipelines.
+* **[Vulkan-Learning](https://github.com/ibby101/Vulkan-Learning)**
+    * *Description:* An ongoing, self-directed project focused on mastering the **Vulkan** graphics API, building foundational knowledge in memory management, command buffers, and descriptor sets.
+* **[WAAM-ViD](https://github.com/IFRA-Cranfield/WAAM-ViD)** (As seen on my profile)
+    * *Description:* An **AI-powered vision system** for real-time dimensional analysis, leveraging advanced image processing and machine learning—a practical application of my M.Sc. expertise in a demanding industrial context.
+* **[Zenith-Shift/shadows\_alchemy\_gamejam](https://github.com/Zenith-Shift/shadows_alchemy_gamejam)**
+    * *Description:* Collaboration on a gamejam project, showcasing teamwork and rapid development skills within a real-time environment (using GDScript).
+
+---
+**📫 Interested in connecting?** Feel free to reach out to discuss graphics, Vulkan, WebGPU, or deep computational challenges!
