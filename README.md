@@ -12,9 +12,9 @@ I am driven by the challenge of designing elegant, performant rendering systems.
 
 | Focus Area | Key Interests & Tools |
 | :--- | :--- |
-| **Modern Graphics APIs** | Mastering **Vulkan** for high-performance, explicit rendering control, and utilising **WebGPU** for cutting-edge web visualisation. |
-| **GPU Computing** | Deep diving into parallelism, developing high-throughput compute shaders, and optimising pipeline architectures for modern GPU hardware. |
-| **Visual Computing Systems** | Applying a strong background in computational mathematics and high-speed image processing to solve complex rendering and system optimisation challenges. |
+| **Modern Graphics APIs** | Learning **Vulkan** for high-performance, explicit rendering control, and utilising **WebGPU** for cutting-edge web visualisation. |
+| **GPU Computing** | Understanding parallelism, developing high-throughput compute shaders, and optimising pipeline architectures for modern GPU hardware. |
+| **Visual Computing Systems** | Applying computational mathematics and image-processing techniques to tackle complex rendering and systems tasks. |
 
 ---
 
