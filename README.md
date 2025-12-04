@@ -33,3 +33,5 @@ My work emphasises practical application across both rendering and perception:
 
 ---
 **📫 Interested in connecting?** Feel free to reach out to discuss graphics, Vulkan, WebGPU, or deep computational challenges!
+
+Email: ibroabdi@outlook.com
