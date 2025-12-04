@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ibrahim
 
-I am a highly motivated **Graphics Programmer** and a recent Master’s graduate **specialising** in **Computational & Software Techniques in Engineering**.
+I am a highly motivated **Graphics Programmer** and a recent Master’s graduate **specialising** in **Computational & Software Techniques in Engineering (Computer & Machine Vision)**.
 
 While my M.Sc. focused on the advanced algorithms of Machine Perception (Computer Vision), my core technical passion and professional focus is on **low-level rendering, high-performance GPU computing, and graphics API mastery.** I architect systems that bridge the gap between complex visual data and fast, optimised, real-time rendering performance.
 
@@ -8,7 +8,7 @@ While my M.Sc. focused on the advanced algorithms of Machine Perception (Compute
 
 ### My Core Focus & Expertise:
 
-I am driven by the challenge of designing elegant, performant rendering systems. I am actively exploring roles centred on Graphics Programming and Real-Time Rendering.
+I am driven by the challenge of designing performant rendering systems. I am actively exploring roles centred on Graphics Programming and Real-Time Rendering.
 
 | Focus Area | Key Interests & Tools |
 | :--- | :--- |
