@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ibrahim
 
-I am a Graphics Programming enthusiast and a recent Master’s graduate **specialising** in **Computational & Software Techniques in Engineering (Computer & Machine Vision)**.
+I am a highly motivated **Graphics Programmer** and a recent Master’s graduate **specialising** in **Computational & Software Techniques in Engineering (Computer & Machine Vision)**.
 
 While my M.Sc. focused on the advanced algorithms of Machine Perception (Computer Vision), my core technical passion and professional focus is on **low-level rendering, high-performance GPU computing, and graphics API mastery.** I  aim to architect systems that bridge the gap between complex visual data and fast, optimised, real-time rendering performance.
 
@@ -27,7 +27,7 @@ My work emphasises practical application across both rendering and perception:
 * **[Vulkan-Learning](https://github.com/ibby101/Vulkan-Learning)**
     An ongoing, self-directed project focused on mastering the **Vulkan** graphics API, building foundational knowledge in memory management, command buffers, and descriptor sets.
 * **[WAAM-ViD](https://github.com/IFRA-Cranfield/WAAM-ViD)** (As seen on my profile)
-    An **AI-powered vision system** for real-time dimensional analysis, leveraging advanced image processing and machine learning—a practical application of my M.Sc. expertise in a demanding industrial context.
+    An **AI-powered vision system** for real-time dimensional analysis, leveraging advanced image processing and machine learning, which showcases a practical application of my M.Sc. expertise in a demanding industrial context.
 * **[Zenith-Shift/shadows\_alchemy\_gamejam](https://github.com/Zenith-Shift/shadows_alchemy_gamejam)**
     Collaboration on a gamejam project, showcasing teamwork and rapid development skills within a real-time environment (using GDScript).
 
