@@ -6,7 +6,7 @@ While my M.Sc. focused on Computer Vision, my core technical passion and profess
 
 ---
 
-### Current Project: [DICOM Visualiser using WebGPU](https://github.com/ibby101/DICOM_Visualiser)
+### Current Project: [DICOM Visualiser using WebGPU](https://github.com/ibby101/DICOM_Viewer)
 
 
 ---
