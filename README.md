@@ -6,14 +6,18 @@ While my M.Sc. focused on Computer Vision, my core technical passion and profess
 
 ---
 
+### Current Project: [DICOM Visualiser using WebGPU](https://github.com/ibby101/DICOM_Visualiser)
+
+
+---
+
 ### My Core Focus & Expertise:
 
 I am driven by the challenge of designing performant rendering systems. I am actively exploring roles centred on Graphics Programming and Real-Time Rendering.
 
 | Focus Area | Key Interests & Tools |
 | :--- | :--- |
-| **Modern Graphics APIs** | Learning **Vulkan** for high-performance, explicit rendering control, and utilising **WebGPU** for cutting-edge web visualisation. |
-| **GPU Computing** | Understanding parallelism, developing high-throughput compute shaders, and optimising pipeline architectures for modern GPU hardware. |
+| **Modern Graphics APIs** | Learning **Vulkan** for high-performance, explicit rendering control, and developing projects using **WebGPU** for web visualisations. |
 | **Visual Computing Systems** | Applying computational mathematics and image-processing techniques to tackle complex rendering and systems tasks. |
 
 ---
