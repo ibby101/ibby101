@@ -6,7 +6,7 @@ My core technical passion and professional focus is on **low-level rendering, hi
 
 ---
 
-### Current Project: [DICOM Visualiser using WebGPU](https://github.com/ibby101/DICOM_Viewer)
+### Current Project: [Medical Imaging Visualiser using WebGPU](https://github.com/ibby101/DICOM_Viewer)
 
 
 ---
