@@ -32,8 +32,8 @@ My work emphasises practical application across both rendering and perception:
     An ongoing, self-directed project focused on understanding the **Vulkan** graphics API, building foundational knowledge in memory management, command buffers, and descriptor sets.
 * **[WAAM-ViD](https://github.com/IFRA-Cranfield/WAAM-ViD)**
     An **AI-powered vision system** for real-time dimensional analysis, leveraging advanced image processing and machine learning, which showcases a practical application of my M.Sc. expertise in a demanding industrial context.
-* **[Zenith-Shift/shadows\_alchemy\_gamejam](https://github.com/Zenith-Shift/shadows_alchemy_gamejam)**
-    Collaboration on a gamejam project, showcasing teamwork and rapid development skills within a real-time environment (using GDScript).
+* **[WebGPU DICOM Viewer](https://github.com/ibby101/DICOM_Viewer)**
+    A project that uses volumetric raymarching to render uploaded medical imaging data in the .dicom format.
 
 ---
 **📫 Interested in connecting?** Feel free to reach out to discuss graphics programming, computer vision & machine learning, or deep computational challenges!
