@@ -31,7 +31,7 @@ My work emphasises practical application across both rendering and perception:
 * **[Vulkan-Learning](https://github.com/ibby101/Vulkan-Learning)**
     An ongoing, self-directed project focused on understanding the **Vulkan** graphics API, building foundational knowledge in memory management, command buffers, and descriptor sets.
 * **[WAAM-ViD](https://github.com/IFRA-Cranfield/WAAM-ViD)**
-    An **AI-powered vision system** for real-time dimensional analysis, leveraging advanced image processing and machine learning, which showcases a practical application of my M.Sc. expertise in a demanding industrial context.
+    An **AI-powered vision system** for real-time dimensional analysis, utilising advanced image processing and machine learning, which showcases a practical application of my M.Sc. expertise in a demanding industrial context.
 * **[WebGPU DICOM Viewer](https://github.com/ibby101/DICOM_Viewer)**
     A project that uses volumetric raymarching to render uploaded medical imaging data in the .dicom format.
 
