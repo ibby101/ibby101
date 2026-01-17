@@ -28,7 +28,7 @@ My work emphasises practical application across both rendering and perception:
 
 * **[3D-Visualiser-WebGPU](https://github.com/ibby101/3D-Visualiser-WebGPU)**
     My Master's thesis, dedicated to developing an **interactive 3D visualiser** powered entirely by the modern **WebGPU** Graphics API, demonstrating proficiency in web-based rendering pipelines.
-* **[Vulkan-Learning](https://github.com/ibby101/Vulkan-Learning)**
+* **[Vulkan-Renderer](https://github.com/ibby101/Vulkan-Learning)**
     An ongoing, self-directed project focused on understanding the **Vulkan** graphics API, building foundational knowledge in memory management, command buffers, and descriptor sets.
 * **[WAAM-ViD](https://github.com/IFRA-Cranfield/WAAM-ViD)**
     An **AI-powered vision system** for real-time dimensional analysis, utilising advanced image processing and machine learning, which showcases a practical application of my M.Sc. expertise in a demanding industrial context.
