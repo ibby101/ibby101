@@ -1,6 +1,6 @@
 # Ibrahim A
 
-I am a **Graphics Programming** enthusiast, and a recent Master’s graduate specialising in **Computational & Software Techniques in Engineering (Computer & Machine Vision)**.
+I am a recent Master’s graduate specialising in **Computational & Software Techniques in Engineering (Computer & Machine Vision)**.
 
 My core technical passion and professional focus is on **low-level programming, high-performance GPU computing, and deep knowledge of graphics APIs.** I  aim to build systems that bridge the gap between complex visual data and fast, optimised, real-time rendering performance.
 
