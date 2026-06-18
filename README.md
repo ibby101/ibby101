@@ -1,4 +1,4 @@
-# Ibby101
+# Ibrahim A
 
 I am a **Graphics Programming** enthusiast, and a recent Master’s graduate specialising in **Computational & Software Techniques in Engineering (Computer & Machine Vision)**.
 
