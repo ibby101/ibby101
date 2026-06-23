@@ -13,7 +13,7 @@ My core technical passion and professional focus is on **low-level programming, 
 
 ### My Core Focus & Expertise:
 
-I am driven by the challenge of designing performant rendering systems. I am actively exploring roles centred on Graphics Programming, Computer Vision Engineering and Machine Learning.
+I am driven by the challenge of designing performant rendering systems. I am actively exploring roles centred on Graphics Programming, Computer Vision and Machine Learning.
 
 | Focus Area | Key Interests & Tools |
 | :--- | :--- |
